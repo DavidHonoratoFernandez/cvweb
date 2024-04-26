@@ -1,0 +1,35 @@
+.container-fluid{
+    background-color: lightblue;
+}
+
+#navbarSupportedContent{
+    padding-left: 70%;
+}
+
+#nav-item{
+    color: white;
+}
+
+#contenido{
+    width: 100%;
+    display: flex;
+    padding: 5%;
+}
+
+#cuerpo{
+    width: 50%;
+    background-color: lightblue;
+    padding: 3%;
+    text-align: center;
+}
+
+#titulo{
+    padding-top: 5%;
+    font-size: 250%;
+    text-align: center;
+}
+
+#mapa{
+    height: 50%;
+    width: 50%;
+}
