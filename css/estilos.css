@@ -23,8 +23,15 @@
     text-align: center;
 }
 
+#cuerpo100{
+    width: 100%;
+    background-color: lightblue;
+    padding: 3%;
+    text-align: center;
+}
+
 #titulo{
-    padding-top: 5%;
+    padding-top: 2%;
     font-size: 250%;
     text-align: center;
 }
@@ -32,4 +39,10 @@
 #mapa{
     height: 50%;
     width: 50%;
+}
+
+#footer{
+    background-color: lightblue;
+    text-align: center;
+    padding: 2%;
 }
