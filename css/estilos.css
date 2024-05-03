@@ -3,7 +3,7 @@
 }
 
 #navbarSupportedContent{
-    padding-left: 70%;
+    padding-left: 65%;
 }
 
 #nav-item{
@@ -23,11 +23,33 @@
     text-align: center;
 }
 
+#cuerpo2{
+    width: 50%;
+    background-color: lightblue;
+    padding: 5%;
+    text-align: center;
+}
+
 #cuerpo100{
     width: 100%;
     background-color: lightblue;
     padding: 3%;
     text-align: center;
+}
+
+#cuerpo33{
+    width: 33%;
+    background-color: lightblue;
+    padding: 3%;
+    text-align: center;
+}
+
+#cuerpo-justify{
+    width: 75%;
+    background-color: lightblue;
+    padding: 3%;
+    padding-left: 10%;
+    text-align: justify;
 }
 
 #titulo{
@@ -45,4 +67,14 @@
     background-color: lightblue;
     text-align: center;
     padding: 2%;
+}
+
+#img{
+    width: 50%;
+    height: 85%;
+}
+
+#bandera{
+    height: 5%;
+    width: 5%;
 }
