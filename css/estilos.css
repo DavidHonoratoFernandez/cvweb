@@ -63,6 +63,16 @@
     width: 50%;
 }
 
+#mapa2{
+    height: 50%;
+    width: 50%;
+}
+
+#mapa-fct{
+    height: 75%;
+    width: 50%;
+}
+
 #footer{
     background-color: lightblue;
     text-align: center;
@@ -74,7 +84,96 @@
     height: 85%;
 }
 
+#img2{
+    width: 50%;
+    height: 85%;
+}
+
+#img-proyectos{
+    width: 50%;
+    height: 85%;
+}
+
+#img-proyectos-eso{
+    width: 50%;
+    height: 85%;
+}
+
 #bandera{
     height: 5%;
     width: 5%;
+}
+
+
+@media screen and (max-width: 600px){
+
+    #todo{
+        display: block;
+    }
+
+    #contenido{
+        width: 100%;
+    }
+
+    #cuerpo{
+        font-size: 80%;
+    }
+
+    #mapa{
+        width: 75%;
+        height: 75%;
+    }
+
+    #cuerpo100{
+        width: 100%;
+        height: 200%;
+        font-size: 75%;
+    }
+
+    #video{
+        height: 200%;
+        width: 100%;
+    }
+
+    #cuerpo-justify{
+        font-size: 75%;
+    }
+
+    #img{
+        height: 70%;
+        width: 80%;
+        padding-top: 15%;
+    }
+
+    #img2{
+        height: 70%;
+        width: 80%;
+        padding-top: 30%;
+        
+    }
+
+    #cuerpo33{
+        font-size: 75%;
+    }
+
+    #img-proyectos{
+        height: 75%;
+        width: 75%;
+        padding-top: 15%;
+    }
+
+    #img-proyectos-eso{
+        height: 85%;
+        width: 85%;
+    }
+
+    #cuerpo2{
+        font-size: 85%;
+        padding: 4%;
+    }
+
+    #mapa-fct{
+        height: 85%;
+        width: 75%;
+    }
 }
